@@ -1,4 +1,4 @@
-socks5://rainalfirdaus68:WmqcXDM9mV:149.126.214.101:59101
-socks5://rainalfirdaus68:WmqcXDM9mV:46.232.4.197:59101
-socks5://rainalfirdaus68:WmqcXDM9mV:50.114.104.185:59101
-socks5://rainalfirdaus68:WmqcXDM9mV:64.226.156.22:59101
+socks5://rainalfirdaus68:WmqcXDM9mV:149.126.214.101:59100
+socks5://rainalfirdaus68:WmqcXDM9mV:46.232.4.197:59100
+socks5://rainalfirdaus68:WmqcXDM9mV:50.114.104.185:59100
+socks5://rainalfirdaus68:WmqcXDM9mV:64.226.156.22:59100
