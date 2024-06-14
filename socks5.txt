@@ -2,3 +2,4 @@ socks5://dbe13f6c362d515705e7__cr.gb,us,de:4231cf316ba4c325:148.251.5.30:10000
 socks5://dbe13f6c362d515705e7__cr.gb,us,de:4231cf316ba4c325:148.251.5.30:10001
 socks5://dbe13f6c362d515705e7__cr.gb,us,de:4231cf316ba4c325:148.251.5.30:10002
 socks5://dbe13f6c362d515705e7__cr.gb,us,de:4231cf316ba4c325:148.251.5.30:10003
+socks5://dbe13f6c362d515705e7__cr.af,al,dz,ad,ao,ai,ag,ar,am,aw,au,at,az,bs,bh,bd,bb,by,be,bz,bj,bm,bt,bo,bq,ba,bw,br,bn,bg,kh,cm,ca,cv,ky,cl,cn,co,cr,hr,cu,cw,cy,cz,cd,dk,dm,do,ec,eg,sv,gq,ee,et,fk,fj,fi,fr,gf,ga,gm,ge,de,gh,gi,gr,gd,gp,gu,gt,gg,gy,ht,hn,hk,hu,is,in,id,ir,iq,ie,im,il,it,ci,jm,jp,je,jo,kz,ke,xk,kw,kg,la,lv,lb,lr,ly,li,lt,lu,mo,mk,mg,mw,my,mv,mt,mq,mr,mu,mx,md,mn,me,ms,ma,mz,mm,na,np,nl,nc,nz,ni,ng,mp,no,om,pk,ps,pa,py,pe,ph,pl,pt,pr,qa,re,ro,ru,rw,kn,lc,vc,sm,st,sa,sn,rs,sc,sl,sg,sx,sk,si,so,za,kr,es,lk,sd,sr,sz,se,ch,sy,tw,tj,tz,th,tg,tt,tn,tr,tc,ug,ua,ae,gb,us,uy,uz,ve,vn,vg,vi,ye,zm,zw:7523035aba952596@148.251.5.30:824
