@@ -1,1 +1,1 @@
-http://dbe13f6c362d515705e7:4231cf316ba4c325@148.251.5.30:824
+socks5://dbe13f6c362d515705e7__cr.de,ru,gb,us,uy,uz:4231cf316ba4c325@gw.dataimpulse.com:10000
